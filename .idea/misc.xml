@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/drawable/addnewbtn.xml" value="0.16" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/drawable/button_typeone.xml" value="0.16" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/drawable/button_typetwo.xml" value="0.16" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/drawable/button_update.xml" value="0.16" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/drawable/input_desing.xml" value="0.16" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/drawable/register_inputfield.xml" value="0.16" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/drawable/rounded_corner.xml" value="0.16" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/drawable/viewbtn.xml" value="0.16" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_culture.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_culture_single_view.xml" value="0.33" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_location_regisr.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_map_view.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_notworking.xml" value="0.22" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_otp_verification.xml" value="0.33" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_places_list.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_registration2.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_single_place_view.xml" value="0.33" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_splish.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_test_acitivity.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/activity_viewcategoty.xml" value="0.22" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/culture_row.xml" value="0.1953125" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/layout_row.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/place_row.xml" value="0.209375" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/TravelSrilanka/app/src/main/res/layout/rounded_corner.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
